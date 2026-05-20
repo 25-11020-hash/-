@@ -3,4 +3,4 @@ pandas
 numpy
 scikit-learn
 matplotlib
-import seaborn as sns
+seaborn
